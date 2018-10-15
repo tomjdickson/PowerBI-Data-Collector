@@ -22,7 +22,7 @@ To ensure you are authenticated with your instance of PowerBI and you are collec
 * username - Office 365 Email
 * password - Office 365 Password
 * dashboardURL - PowerBI Dashboard URL
-* Selector - Selector in-which contains your information (Default is '.tileContain li'). This is the parent div element for all the data you are waiting to select.
+* Selector - Selector in-which contains your information (Default is '.tileContain li'). This is the parent div element for all the data you are wanting to select.
 
 
 
