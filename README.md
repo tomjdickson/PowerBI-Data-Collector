@@ -17,7 +17,7 @@ Finally navigate to the directory in-which you have downloaded and run
 ``` npm install ```
 
 ## Setup
-To ensure you are authenticated with your instance of PowerBI and you are collecting the disired information you will need to fill out the "app.js" file located in the "Config" directory.
+To ensure you are authenticated with your instance of PowerBI and you are collecting the desired information you will need to fill out the "app.js" file located in the "Config" directory.
 "App.js" Contains the following settings 
 * username - Office 365 Email
 * password - Office 365 Password
